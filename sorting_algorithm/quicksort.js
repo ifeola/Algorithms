@@ -1,4 +1,4 @@
-import names from "../data/names.js";
+import con from "../data/names.js";
 
 function quickSortAlgorithm(array) {
 	if (array.length < 2) return array;
